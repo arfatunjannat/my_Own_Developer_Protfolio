@@ -1,0 +1,91 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+section{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 40px;
+    padding: 0px;
+
+}
+.first-stage{
+    margin: 40px;
+    padding: 20px;
+}
+.peter{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+}
+h3{
+    color: black;
+    font-size: 60px;
+    font-weight: 1200;
+}
+h4{
+    color: black;
+  text-align: start;
+}
+p{
+    color: gray;
+    text-align: justify;
+}
+.first-picture{
+    width: 400px;
+    margin-left: 170px;
+}
+.second-stage{
+    margin: 40px;
+    padding: 20px;
+}
+.second-picture{
+    width: 400px;
+    margin-right: 170px;
+}
+.first-button{
+background-color: rgba(239, 166, 29, 0.95);
+color: white;
+padding: 10px;
+margin-right: 600px;
+border: 1px solid white;
+border-radius: 7px;
+
+}
+.second-button{
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    margin-right: 530px;
+    border: 1px solid white;
+    border-radius: 7px;
+    }
+
+.card{
+   border: 1px solid gray;
+    box-shadow: 10px 8px 12px gray;
+    margin-left: 40px;
+    padding: 30px;
+    width: 400px;
+    height: 270px;
+    
+}
+.main-card{
+   
+    display: flex;
+    justify-content: center;
+}
+.card-text{
+    margin-left: 300px;
+    padding: 10px;
+    
+}
+.copy{
+    
+    
+    color: gray;
+    
+    margin-left: 560px;
+}
